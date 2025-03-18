@@ -1,0 +1,16 @@
+{
+    "sex": {
+        "0": "female",
+        "1": "male"
+    },
+    "smoker": {
+        "0": "yes",
+        "1": "no"
+    },
+    "region": {
+        "0": "southwest",
+        "1": "southeast",
+        "2": "northwest",
+        "3": "northeast"
+    }
+}

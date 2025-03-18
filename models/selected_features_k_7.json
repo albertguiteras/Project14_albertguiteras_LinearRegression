@@ -1,44 +1,50 @@
 {
     "X_train_con_outliers.csv": [
         "age",
+        "sex",
         "bmi",
         "children",
-        "smoker_yes",
-        "smoker_no"
+        "smoker",
+        "region"
     ],
     "X_train_sin_outliers.csv": [
         "age",
+        "sex",
         "bmi",
         "children",
-        "smoker_yes",
-        "smoker_no"
+        "smoker",
+        "region"
     ],
     "X_train_con_outliers_norm.csv": [
         "age",
+        "sex",
         "bmi",
         "children",
-        "smoker_yes",
-        "smoker_no"
+        "smoker",
+        "region"
     ],
     "X_train_sin_outliers_norm.csv": [
         "age",
+        "sex",
         "bmi",
         "children",
-        "smoker_yes",
-        "smoker_no"
+        "smoker",
+        "region"
     ],
     "X_train_con_outliers_scal.csv": [
         "age",
+        "sex",
         "bmi",
         "children",
-        "smoker_yes",
-        "smoker_no"
+        "smoker",
+        "region"
     ],
     "X_train_sin_outliers_scal.csv": [
         "age",
+        "sex",
         "bmi",
         "children",
-        "smoker_yes",
-        "smoker_no"
+        "smoker",
+        "region"
     ]
 }

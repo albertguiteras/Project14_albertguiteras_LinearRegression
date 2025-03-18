@@ -1,32 +1,32 @@
 {
-    "X_train_con_outliers.xlsx": [
+    "X_train_con_outliers.csv": [
         "age",
-        "bmi",
-        "smoker"
+        "smoker_yes",
+        "smoker_no"
     ],
-    "X_train_sin_outliers.xlsx": [
+    "X_train_sin_outliers.csv": [
         "age",
-        "bmi",
-        "smoker"
+        "smoker_yes",
+        "smoker_no"
     ],
-    "X_train_con_outliers_norm.xlsx": [
+    "X_train_con_outliers_norm.csv": [
         "age",
-        "bmi",
-        "smoker"
+        "smoker_yes",
+        "smoker_no"
     ],
-    "X_train_sin_outliers_norm.xlsx": [
+    "X_train_sin_outliers_norm.csv": [
         "age",
-        "bmi",
-        "smoker"
+        "smoker_yes",
+        "smoker_no"
     ],
-    "X_train_con_outliers_scal.xlsx": [
+    "X_train_con_outliers_scal.csv": [
         "age",
-        "bmi",
-        "smoker"
+        "smoker_yes",
+        "smoker_no"
     ],
-    "X_train_sin_outliers_scal.xlsx": [
+    "X_train_sin_outliers_scal.csv": [
         "age",
-        "bmi",
-        "smoker"
+        "smoker_yes",
+        "smoker_no"
     ]
 }

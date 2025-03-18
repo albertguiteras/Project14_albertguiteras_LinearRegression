@@ -1,0 +1,32 @@
+{
+    "X_train_con_outliers.xlsx": [
+        "age",
+        "bmi",
+        "smoker"
+    ],
+    "X_train_sin_outliers.xlsx": [
+        "age",
+        "bmi",
+        "smoker"
+    ],
+    "X_train_con_outliers_norm.xlsx": [
+        "age",
+        "bmi",
+        "smoker"
+    ],
+    "X_train_sin_outliers_norm.xlsx": [
+        "age",
+        "bmi",
+        "smoker"
+    ],
+    "X_train_con_outliers_scal.xlsx": [
+        "age",
+        "bmi",
+        "smoker"
+    ],
+    "X_train_sin_outliers_scal.xlsx": [
+        "age",
+        "bmi",
+        "smoker"
+    ]
+}

@@ -1,56 +1,56 @@
 [
     {
         "dataset_TRAIN": "X_train_con_outliers.csv",
-        "MSE_train": 37074295.27337913,
-        "r2_train": 0.7292160493765238,
+        "MSE_train": 37072507.16664416,
+        "r2_train": 0.7292291093848737,
         "dataset_TEST": "X_test_con_outliers.csv",
-        "MSE_test": 35914551.48043362,
-        "r2_test": 0.8045531086669289,
+        "MSE_test": 35901914.114619814,
+        "r2_test": 0.8046218811772661,
         "feat_sel": "k5"
     },
     {
         "dataset_TRAIN": "X_train_sin_outliers.csv",
-        "MSE_train": 37061572.23266272,
-        "r2_train": 0.7293089761659268,
+        "MSE_train": 37060069.45081554,
+        "r2_train": 0.7293199522128755,
         "dataset_TEST": "X_test_sin_outliers.csv",
-        "MSE_test": 35890394.01719949,
-        "r2_test": 0.8046845735160493,
+        "MSE_test": 35878679.83797702,
+        "r2_test": 0.804748322047471,
         "feat_sel": "k5"
     },
     {
         "dataset_TRAIN": "X_train_con_outliers_norm.csv",
-        "MSE_train": 37074295.27337913,
-        "r2_train": 0.7292160493765238,
+        "MSE_train": 37072507.16664416,
+        "r2_train": 0.7292291093848737,
         "dataset_TEST": "X_test_con_outliers_norm.csv",
-        "MSE_test": 35914551.48043365,
-        "r2_test": 0.8045531086669286,
+        "MSE_test": 35901914.114619836,
+        "r2_test": 0.804621881177266,
         "feat_sel": "k5"
     },
     {
         "dataset_TRAIN": "X_train_sin_outliers_norm.csv",
-        "MSE_train": 37061572.23266272,
-        "r2_train": 0.7293089761659268,
+        "MSE_train": 37060069.45081554,
+        "r2_train": 0.7293199522128755,
         "dataset_TEST": "X_test_sin_outliers_norm.csv",
-        "MSE_test": 35890394.01719947,
-        "r2_test": 0.8046845735160494,
+        "MSE_test": 35878679.83797702,
+        "r2_test": 0.804748322047471,
         "feat_sel": "k5"
     },
     {
         "dataset_TRAIN": "X_train_con_outliers_scal.csv",
-        "MSE_train": 37074295.27337913,
-        "r2_train": 0.7292160493765238,
+        "MSE_train": 37072507.16664417,
+        "r2_train": 0.7292291093848736,
         "dataset_TEST": "X_test_con_outliers_scal.csv",
-        "MSE_test": 35914551.48043362,
-        "r2_test": 0.8045531086669289,
+        "MSE_test": 35901914.11461982,
+        "r2_test": 0.8046218811772661,
         "feat_sel": "k5"
     },
     {
         "dataset_TRAIN": "X_train_sin_outliers_scal.csv",
-        "MSE_train": 37061572.23266272,
-        "r2_train": 0.7293089761659268,
+        "MSE_train": 37060069.45081554,
+        "r2_train": 0.7293199522128755,
         "dataset_TEST": "X_test_sin_outliers_scal.csv",
-        "MSE_test": 35890394.01719947,
-        "r2_test": 0.8046845735160494,
+        "MSE_test": 35878679.83797702,
+        "r2_test": 0.804748322047471,
         "feat_sel": "k5"
     }
 ]

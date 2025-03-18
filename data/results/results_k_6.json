@@ -6,7 +6,7 @@
         "dataset_TEST": "X_test_con_outliers.csv",
         "MSE_test": 35493102.61165053,
         "r2_test": 0.8068466322629111,
-        "feat_sel": "k7"
+        "feat_sel": "k6"
     },
     {
         "dataset_TRAIN": "X_train_sin_outliers.csv",
@@ -15,7 +15,7 @@
         "dataset_TEST": "X_test_sin_outliers.csv",
         "MSE_test": 35467636.63842712,
         "r2_test": 0.8069852180198291,
-        "feat_sel": "k7"
+        "feat_sel": "k6"
     },
     {
         "dataset_TRAIN": "X_train_con_outliers_norm.csv",
@@ -24,7 +24,7 @@
         "dataset_TEST": "X_test_con_outliers_norm.csv",
         "MSE_test": 35493102.61165053,
         "r2_test": 0.8068466322629111,
-        "feat_sel": "k7"
+        "feat_sel": "k6"
     },
     {
         "dataset_TRAIN": "X_train_sin_outliers_norm.csv",
@@ -33,7 +33,7 @@
         "dataset_TEST": "X_test_sin_outliers_norm.csv",
         "MSE_test": 35467636.638427146,
         "r2_test": 0.8069852180198289,
-        "feat_sel": "k7"
+        "feat_sel": "k6"
     },
     {
         "dataset_TRAIN": "X_train_con_outliers_scal.csv",
@@ -42,7 +42,7 @@
         "dataset_TEST": "X_test_con_outliers_scal.csv",
         "MSE_test": 35493102.61165047,
         "r2_test": 0.8068466322629114,
-        "feat_sel": "k7"
+        "feat_sel": "k6"
     },
     {
         "dataset_TRAIN": "X_train_sin_outliers_scal.csv",
@@ -51,6 +51,6 @@
         "dataset_TEST": "X_test_sin_outliers_scal.csv",
         "MSE_test": 35467636.638427086,
         "r2_test": 0.8069852180198293,
-        "feat_sel": "k7"
+        "feat_sel": "k6"
     }
 ]
